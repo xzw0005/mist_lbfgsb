@@ -1,0 +1,5122 @@
+Welcome!
+
+Command line: MIST -r 2 -n 10 4 -l 100 -m .00100 -q 1 -t 1 -h (1, 2):3; -o 1 
+
+#############################
+  Step 2: model inference.
+#############################
+1 CPUs
+
+On process 0: reading 100 sample from locusID = 0 to locusID = 9 (the number of loci = 10)
+Initialization of population tree....
+From	To	MigrationRate
+1	4294967280	0.000140968
+4294967280	1	0.000482325
+(1:1.18981e-316,4294967280:1.18981e-316)3;
+Population sizes:
+3: 0.768418
+1: 0.908115
+4294967280: 0.721517
+End of population tree initialization.
+
+
+Preparing the optimization 
+L-BFGS-B
+
+logJointDensity = -13.6277
+
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737403
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737403    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2534
+
+xx =    0.737405
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737405    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2535
+
+xx =    0.737409
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737409    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2537
+
+xx =    0.737411
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737411    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2538
+
+xx =    0.737407
+   0.894993
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894993    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894996
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894996    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+      0.895
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407       0.895    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.895002
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.895002    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545544
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545544 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545547
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545547 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545551
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545551 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545553
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545553 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000510001
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000510001 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000512222
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000512222 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000516662
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000516662 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000518883
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000518883 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000236192
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000236192    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000238413
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000238413    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000242853
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000242853    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000245074
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000245074    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890734
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890734
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890737
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890737
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890741
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890741
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890743
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890743
+ logJointDensity = 25.2536
+
+In minize()
+x =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+g =     50.1786
+1.33336e-10
+1.33336e-10
+1.33336e-10
+1.33336e-10
+1.33336e-10
+f = 25.2536
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737403
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737403    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2534
+
+xx =    0.737405
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737405    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2535
+
+xx =    0.737409
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737409    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2537
+
+xx =    0.737411
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737411    0.894998    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2538
+
+xx =    0.737407
+   0.894993
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894993    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894996
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894996    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+      0.895
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407       0.895    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.895002
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.895002    0.545549 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545544
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545544 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545547
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545547 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545551
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545551 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545553
+0.000514442
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545553 0.000514442 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000510001
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000510001 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000512222
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000512222 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000516662
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000516662 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000518883
+0.000240633
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000518883 0.000240633    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000236192
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000236192    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000238413
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000238413    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000242853
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000242853    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000245074
+   0.890739
+para =    0.737407    0.894998    0.545549 0.000514442 0.000245074    0.890739
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890734
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890734
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890737
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890737
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890741
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890741
+ logJointDensity = 25.2536
+
+xx =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890743
+para =    0.737407    0.894998    0.545549 0.000514442 0.000240633    0.890743
+ logJointDensity = 25.2536
+
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = -4.4407e-06
+       -nan
+       -nan
+       -nan
+       -nan
+       -nan
+para = -4.4407e-06        -nan        -nan        -nan        -nan        -nan
+ logJointDensity = -nan
+
+xx = -2.2203e-06
+       -nan
+       -nan
+       -nan
+       -nan
+       -nan
+para = -2.2203e-06        -nan        -nan        -nan        -nan        -nan
+ logJointDensity = -nan
+
+xx = 2.2205e-06
+      -nan
+      -nan
+      -nan
+      -nan
+      -nan
+para = 2.2205e-06       -nan       -nan       -nan       -nan       -nan
+ logJointDensity = -nan
+
+xx = 4.4409e-06
+      -nan
+      -nan
+      -nan
+      -nan
+      -nan
+para = 4.4409e-06       -nan       -nan       -nan       -nan       -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+xx = 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 1e-10  -nan  -nan  -nan  -nan  -nan
+ logJointDensity = -nan
+
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250714
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250714     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250716
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250716     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250721
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250721     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250723
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250723     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.250718
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.250718     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416188
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416188     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.41619
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.41619    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.416195
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416195     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416197
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416197     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.416192
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.416192     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525401
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525401     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525403
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525403     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525408
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525408     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.52541
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.52541    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.525405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.525405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597481
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597481     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597484
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597484     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597488
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597488     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.59749
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.59749    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.597486
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.597486     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645055
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645055     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645057
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645057     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645061
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645061     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645064
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645064     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.645059
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.645059     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676453
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676453     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676455
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676455     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.67646
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.67646    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.676462
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676462     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.676457
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.676457     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.697176
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.697176     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.697178
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.697178     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.697182
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.697182     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.697185
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.697185     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.69718
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.69718    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710853
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710853     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710855
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710855     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.71086
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.71086    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.710862
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710862     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.710857
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.710857     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.71988
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.71988    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.719882
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719882     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719886
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719886     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719889
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719889     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.719884
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.719884     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725837
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725837     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.72584
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.72584    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.725844
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725844     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725846
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725846     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.725842
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.725842     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.72977
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.72977    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.729772
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729772     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729778
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729778     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.729774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.729774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732365
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732365     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732367
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732367     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732371
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732371     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732374
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732374     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.732369
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.732369     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734078
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734078     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.73408
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.73408    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.734084
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734084     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734086
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734086     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.734082
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.734082     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735208
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735208     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.73521
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.73521    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.735215
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735215     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735217
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735217     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735213
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735213     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735954
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735954     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735956
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735956     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735961
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735961     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735963
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735963     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.735959
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.735959     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736447
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736447     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736449
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736449     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736453
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736453     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736455
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736455     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736451
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736451     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736772
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736772     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736774
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736774     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736778
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736778     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.73678
+   -nan
+   -nan
+   -nan
+   -nan
+   -nan
+para = 0.73678    -nan    -nan    -nan    -nan    -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736776
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736776     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736986
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736986     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736988
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736988     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736993
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736993     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736995
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736995     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.736991
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.736991     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737403
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737403     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737409
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737409     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737411
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737411     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+current x =    0.737407
+   0.894998
+   0.545549
+0.000514442
+0.000240633
+   0.890739
+current g =     50.1786
+1.33336e-10
+1.33336e-10
+1.33336e-10
+1.33336e-10
+1.33336e-10
+current f = 25.2536
+rate = 0
+SubspaceMin 1e-10
+ -nan
+ -nan
+ -nan
+ -nan
+ -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737403
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737403     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737405
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737405     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737409
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737409     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737411
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737411     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+xx = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+para = 0.737407     -nan     -nan     -nan     -nan     -nan
+ logJointDensity = -nan
+
+new x = 0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+new g = -nan
+-nan
+-nan
+-nan
+-nan
+-nan
+new f = inf
+result     0.737407
+    -nan
+    -nan
+    -nan
+    -nan
+    -nan
+
+
+Done with the optimization 
+
+The running time of step 2 is 5.17147 seconds.

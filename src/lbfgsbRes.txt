@@ -1,0 +1,37 @@
+Welcome!
+
+Command line: MIST -r 2 -n 10 4 -l 100 -m 100 -q 1 -t 1 -h (1, 2):3; -c 1 1 -o 1 
+
+#############################
+  Step 2: model inference.
+#############################
+4 CPUs
+
+On process 0: reading 100 sample from locusID = 0 to locusID = 1 (the number of loci = 2)
+On process 1: reading 100 sample from locusID = 2 to locusID = 3 (the number of loci = 2)
+On process 2: reading 100 sample from locusID = 4 to locusID = 6 (the number of loci = 3)
+On process 3: reading 100 sample from locusID = 7 to locusID = 9 (the number of loci = 3)
+Initialization of population tree....
+From	To	MigrationRate
+1	4294967280	69.464
+4294967280	1	69.464
+(1:1.50559e-316,4294967280:1.50559e-316)3;
+Population sizes:
+3: 0.818471
+1: 0.818471
+4294967280: 0.818471
+End of population tree initialization.
+
+
+Preparing the optimization 
+L-BFGS-B
+
+L-BFGS-B
+
+L-BFGS-B
+
+L-BFGS-B
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 3701 on node XPS-Ubuntu exited on signal 6 (Aborted).
+--------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+mpirun -np 4 MIST -r 1 -i toy_data_10loci.u
+
+mpirun -np 4 MIST -r 2 -n 10 4 -l 100 -m 100 -q 1 -t .2 -h "(1, 2):3;"
+mpirun -np 4 MIST -r 2 -n 10 4 -l 100 -m 100 -q 1 -t 1 -h "(1, 2):3;" -c 1 1 
+
+mpirun -np 4 MIST -r 2 -n 10 4 -l 100 -m 100 -q 1 -t 1 -h "(1, 2):3;" -c 1 1 -o 1
