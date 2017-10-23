@@ -122,13 +122,26 @@ class Problem {
         Scalar tmp = xx[d];
         xx[d] += coeff2[accuracy][s]*eps;
 	std::cout << "xx = " << xx <<"\n";
-//	if (isinf(value(xx)) || isnan(value(xx)))
+//	if (isinf(value(xx))  || isnan(value(xx)))
 //		grad[d] += 0;
 //	//	grad[d] += coeff[accuracy][s] * 1e24;
 //	//else if (isnan(value(xx)))
 //	//	grad[d] += 0;
-//	else 
-	        grad[d] += coeff[accuracy][s]*value(xx);
+
+//if (isnan(value(xx)) || isinf(value(xx)))
+//	grad[d] += 0;
+
+//else if (isinf(value(xx))) {
+//	if (value(xx) < 0) 
+//		grad[d] += coeff[accuracy][s] * 1e24;
+//	else
+//		grad[d] -= coeff[accuracy][s] * 1e24;
+//}
+
+//else
+//	grad[d] += coeff[accuracy][s]*value(xx);
+
+	grad[d] += coeff[accuracy][s]*value(xx);
         xx[d] = tmp;
       }
       grad[d] /= ddVal;

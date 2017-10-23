@@ -129,9 +129,9 @@ class LbfgsbSolver : public ISolver<TProblem, 1> {
     }
 	
 
-if (isnan(dt_min))
-	dt_min = (Scalar)0.0;
-else
+//if (isnan(dt_min))
+//	dt_min = (Scalar)0.0;
+//else
     dt_min = std::max(dt_min, (Scalar)0.0);
 
 //    dt_min = std::max(dt_min, (Scalar)0.0);
